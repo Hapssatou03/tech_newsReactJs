@@ -1,5 +1,5 @@
 {
-  "name": "morningnews-backend-part1",
+  "name": "tech-news-backend",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -15,7 +15,5 @@
     "node-fetch": "2"
   },
   "devDependencies": {
-    "jest": "^28.1.1",
-    "supertest": "^6.2.3"
   }
 }
